@@ -81,8 +81,7 @@ RETURN
 
 **Note:** The callout values may display the average numeric values instead of letter grades. To show letter grades, use a Card Visual and place the "Average_Letter_Grade" measure in it. For a demonstration, check out the results in the attached video!
 
-**🚀 Why is This Useful?
-**
+**🚀 Why is This Useful?**
 
 ✅ Allows quantitative analysis of letter-based grading systems
 
